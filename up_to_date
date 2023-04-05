@@ -1,0 +1,4 @@
+touch up_to_dat
+git add .
+git commit -m 'hi'
+git pushe
